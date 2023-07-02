@@ -1,16 +1,101 @@
 {
   "users": [
     {
-      "id": 1,
-      "username": "John",
-      "email": "johndoe123@gmail.com",
-      "password": "12345678"
+      "username": "Jimmy",
+      "email": "jmyli562@gmail.com",
+      "password": "12345678",
+      "id": 1
     },
     {
-      "username": "jmyli562",
-      "email": "jmyli562@gmail.com",
-      "password": "feagfagaefaefa",
+      "username": "user",
+      "email": "fakeuser@gmail.com",
+      "password": "12345678",
       "id": 2
+    },
+    {
+      "username": "realuser",
+      "email": "realuser@gmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "username": "realuser1",
+      "email": "realuser1@gmail.com",
+      "password": "12345678",
+      "id": 4,
+      "Routines": [
+        {
+          "Day": "Monday",
+          "Exercises": [
+            {
+              "name": "45° side bend",
+              "duration": "25 minutes"
+            },
+            {
+              "name": "alternate lateral pulldown",
+              "duration": "15 minutes"
+            },
+            {
+              "name": "3/4 sit-up",
+              "duration": "20 minutes"
+            }
+          ]
+        },
+        {
+          "Day": "Tuesday",
+          "Exercises": [
+            {
+              "name": "None",
+              "duration": "None"
+            }
+          ]
+        },
+        {
+          "Day": "Wednesday",
+          "Exercises": [
+            {
+              "name": "None",
+              "duration": "None"
+            }
+          ]
+        },
+        {
+          "Day": "Thursday",
+          "Exercises": [
+            {
+              "name": "None",
+              "duration": "None"
+            }
+          ]
+        },
+        {
+          "Day": "Friday",
+          "Exercises": [
+            {
+              "name": "45° side bend",
+              "duration": "15 minutes"
+            }
+          ]
+        },
+        {
+          "Day": "Saturday",
+          "Exercises": [
+            {
+              "name": "45° side bend",
+              "duration": "45 minutes"
+            }
+          ]
+        },
+        {
+          "Day": "Sunday",
+          "Exercises": [
+            {
+              "name": "None",
+              "duration": "None"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
