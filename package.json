@@ -1,11 +1,15 @@
 {
-  "dependencies": {
-    "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^0.17.3"
-    
+  "name": "backend-for-exercise-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
   },
-  "scripts:" {
-    "start": "node index.js"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
   }
 }
